@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(23, 160, 57);
+}
 #select{
     width: 230px;
     height: 48px;
