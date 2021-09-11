@@ -1,0 +1,43 @@
+#select{
+    width: 230px;
+    height: 48px;
+    border: none;
+    background-color: aqua;
+    border-radius: 8px;
+    color: gold;
+    margin-left: 110px;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 24px;
+}
+#select:focus{
+    border: none;
+    background-color: cadetblue;
+    color: crimson;
+}
+#form{
+    background-color: indigo;
+    width: 450px;
+    height: 250px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: -20px;
+}
+#button{
+    margin-left: 160px;
+    width: 130px;
+    height: 37px;
+    border-radius: 5px;
+    border: none;
+    background-color: lawngreen;
+    color: #ffffff;
+    font-size: 24px;
+}
+#title{
+    color: lightseagreen;
+    text-align: center;
+}
